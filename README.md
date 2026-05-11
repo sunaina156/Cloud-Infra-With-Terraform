@@ -188,6 +188,8 @@ terraform plan
 terraform apply
 Type: yes
 
+![alt text](image-1.png)
+
 -- 
 ## Access Web Server
 
@@ -204,3 +206,5 @@ You will see the Nginx welcome page or custom Terraform page.
 ## Cleanup Resources
 To destroy all resources:
 terraform destroy
+
+![alt text](image-2.png)
