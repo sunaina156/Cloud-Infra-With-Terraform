@@ -197,6 +197,8 @@ http://<public-ip>
 
 You will see the Nginx welcome page or custom Terraform page.
 
+![alt text](image.png)
+
 ---
 
 ## Cleanup Resources
